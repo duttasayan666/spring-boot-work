@@ -1,3 +1,4 @@
 spring:
   main:
     lazy-initialization: true
+    version:1.0.0.RELEASE
