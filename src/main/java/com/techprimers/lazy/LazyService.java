@@ -9,7 +9,7 @@ public class LazyService {
     public LazyService() {
         System.out.println("Lazy Service:: Constructor loaded properly");
     }
-
+//Adding hello method
     public String hello() {
         return "hello Sayan! Nice to see you";
     }
